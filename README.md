@@ -8,6 +8,8 @@
 [Gitter Discussion room](https://gitter.im/Open-Shell)  
 [Latest nightly build](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master/artifacts)  
 
+Maybe add new feature later
+
 ### Features
 - Classic style Start Menu for Windows 7, 8, 8.1, 10
 - Toolbar for Windows Explorer
